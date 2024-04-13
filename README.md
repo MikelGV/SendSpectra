@@ -1,6 +1,6 @@
 # SendSpectra
 
-email marketing tool developed in GO
+SendSpectra is an email marketing tool developed in GO
 
 # TODO LIST
 
